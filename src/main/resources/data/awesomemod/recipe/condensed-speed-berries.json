@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "awesomemod:speed-berries",
+    "awesomemod:speed-berries"
+  ],
+  "result": {
+    "id": "awesomemod:condensed-speed-berries",
+    "count": 1
+  }
+}

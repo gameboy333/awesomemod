@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:sweet_berries",
+    "minecraft:light_blue_dye",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "awesomemod:speed-berries",
+    "count": 1
+  }
+}

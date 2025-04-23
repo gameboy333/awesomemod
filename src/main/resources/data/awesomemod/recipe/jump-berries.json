@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "awesomemod:speed-berries",
+    "minecraft:rabbit_foot"
+  ],
+  "result": {
+    "id": "awesomemod:jump-berries",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "awesomemod:speed-berries",
+    "awesomemod:jump-berries",
+    "awesomemod:defense-berries",
+    "awesomemod:healing-berries",
+    "awesomemod:evil-berries",
+    "awesomemod:condensed-speed-berries"
+  ],
+  "result": {
+    "id": "awesomemod:ultimate-berries",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+/time set day
+/kill @e
+/effect give @s minecraft:hunger 5 255
+/time set night
+/effect clear @s
+/give @s awesome
+/effect give @s minecraft:hunger 5 255
+/give @s awesomemod:speed-berries
+/give @s minecraft:zombie_spawn_egg
+/give @s minecraft:chicken_spawn_egg 64
+/loot give @s loot awesomemod:blocks/testing-block
+/effect clear
+/advancement grant @s everything
+/effect clear
+/give minecraft:mace 2
+/effect clear
+/clear
+/time set day
+/gamerule doDaylightCycle false
+/gamerule keepInventory true
+/effect clear
+/setworldspawn ~ ~ ~
+/effect clear
+/give @s minecraft:skeleton_spawn_egg
+/effect clear
+/kill
+/effect clear
+/give @s minecraft:skeleton_spawn_egg
+/effect clear
+/damage @s 5
+/effect clear

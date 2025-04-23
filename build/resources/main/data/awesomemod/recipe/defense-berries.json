@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "awesomemod:speed-berries",
+    "minecraft:shield"
+  ],
+  "result": {
+    "id": "awesomemod:defense-berries",
+    "count": 1
+  }
+}

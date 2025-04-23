@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "awesomemod:item/testing-item"
+  }
+}
