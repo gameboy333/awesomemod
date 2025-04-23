@@ -29,3 +29,15 @@
 /effect clear
 /damage @s 5
 /effect clear
+/gamerule keepInventory true
+/gamerule doDaylightCycle false
+/effect clear
+/give @s minecraft:lava_bucket
+/effect clear
+/damage @s 8
+/effect clear
+/effect give @s minecraft:hunger 5 255
+/give @s minecraft:bamboo_door
+/give @s minecraft:stone_pickaxe
+/give @s minecraft:furnace
+/give @s coal 64
